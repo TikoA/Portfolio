@@ -1,0 +1,162 @@
+@media (max-width: 1100px) {
+	.ex-wrapper {
+		padding: 0 100px;
+	}
+}
+@media (max-width: 991px) {
+	.menu_visible {
+		display: none;
+	}
+	.m-menu__link {
+		display: block;
+	}
+	.m-menu__open {
+		font-size: 4rem;
+		top: 23px;
+		right: 35px;
+	}
+	.m-menu__close {
+		top: 25px;
+    right: 30px;
+    font-size: 8rem;
+	}
+	.logo {
+		font-size: 3rem;
+	}
+	.ex-wrapper {
+		padding: 0 10px;
+	}
+	.example__overlay:hover {
+  	opacity: 0;
+	}
+}
+@media (max-width: 460px) {
+	html {
+		font-size: 8px;
+	}
+	.nav {
+		height: 76px;
+	}
+	.m-menu__open {
+		font-size: 4rem;
+		top: 23px;
+		right: 20px;
+	}
+	.m-menu__close {
+		top: 25px;
+    right: 30px;
+    font-size: 6rem;
+	}
+	.m-menu__item {
+		padding-bottom: 25px;
+	}
+	.logo {
+		font-size: 2.5rem;
+	}
+	.ex-wrapper {
+		padding: 0 10px;
+		justify-content: center;
+	}
+	.example__overlay:hover {
+  	opacity: 0;
+	}
+	.name_screen_460 {
+		display: -webkit-flex;
+		display: -moz-flex;
+		display: -ms-flex;
+		display: -o-flex;
+		display: flex;
+    justify-content: center;
+    -ms-align-items: center;
+    align-items: center;
+	}
+	.random {
+		flex-direction: column;
+	}
+	.random__wrap {
+		display: -webkit-flex;
+		display: -moz-flex;
+		display: -ms-flex;
+		display: -o-flex;
+		display: flex;
+		justify-content: center;
+
+	}
+	.container_display_flex {
+		-webkit-flex-direction: column;
+		-moz-flex-direction: column;
+		-ms-flex-direction: column;
+		-o-flex-direction: column;
+		flex-direction: column;
+    justify-content: center;
+    -ms-align-items: center;
+    align-items: center;
+	}
+	.skills {
+		width: 90%;
+	}
+	.circ-btn_value_contacnts {
+		left: 20px;
+		bottom: 15px;
+		width: 50px;
+    height: 50px;
+    font-size: 1rem;
+    line-height: 61px;
+	}
+	.circ-btn_social_vk {
+		bottom: 164px;
+    left: 25px;
+    height: 40px;
+    width: 40px;
+    font-size: 0.8rem;
+	}
+	.circ-btn_social_telegram {
+		bottom: 117px;
+    left: 25px;
+    height: 40px;
+    width: 40px;
+    font-size: 0.8rem;
+	}
+	.circ-btn_social_watsapp {
+		bottom: 72px;
+    left: 25px;
+    height: 40px;
+    width: 40px;
+    font-size: 0.8rem;
+	}
+	.circ-btn_hide_first {
+		-webkit-transform: translateY(52px);
+    -ms-transform: translateY(52px);
+    transform: translateY(52px);
+	}
+	.circ-btn_hide_second {
+		-webkit-transform: translateY(97px);
+    -ms-transform: translateY(97px);
+    transform: translateY(97px);
+	}
+	.circ-btn_hide_third {
+    -webkit-transform: translateY(145px);
+    -ms-transform: translateY(145px);
+    transform: translateY(145px);
+	}
+	.circ-btn_value_up {
+		right: 20px;
+		bottom: 22px;
+		width: 40px;
+    height: 40px;
+    font-size: 0.8rem;
+    line-height: 54px;
+	}
+	.form__row {
+		width: 90%;
+		margin-bottom: 20px;
+	}
+	.form__btn {
+		width: 165px;
+    height: 45px;
+    line-height: 47px;
+	}
+	.social__link:hover { 
+		color: #fff;
+	}
+}

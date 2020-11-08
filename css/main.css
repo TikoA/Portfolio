@@ -389,17 +389,17 @@ canvas {
       background: -o-linear-gradient(left, orangered, #ffa700);
       background: linear-gradient(to right, orangered, #ffa700); }
     .skills__fill_type_css {
-      width: 75%;
+      width: 95%;
       background: -webkit-gradient(linear, left top, right top, color-stop(-50%, blue), color-stop(150%, skyblue));
       background: -o-linear-gradient(left, blue -50%, skyblue 150%);
       background: linear-gradient(to right, blue -50%, skyblue 150%); }
-    .skills__fill_type_php {
-      width: 80%;
+    .skills__fill_type_vue {
+      width: 85%;
       background: -webkit-gradient(linear, left top, right top, color-stop(-50%, lightgreen), color-stop(150%, green));
       background: -o-linear-gradient(left, lightgreen -50%, green 150%);
       background: linear-gradient(to right,  lightgreen -50%, green 150%); }
     .skills__fill_type_jquery {
-      width: 80%;
+      width: 85%;
       background: -webkit-gradient(linear, left top, right top, color-stop(-50%, #c10a00), color-stop(150%, #c76464));
       background: -o-linear-gradient(left, #c10a00 -50%, #c76464 150%);
       background: linear-gradient(to right, #c10a00 -50%, #c76464 150%); }
@@ -409,7 +409,7 @@ canvas {
       background: -o-linear-gradient(left, #ffe700 -50%, #f4ff3c 150%);
       background: linear-gradient(to right, #ffe700 -50%, #f4ff3c 150%); }
     .skills__fill_type_react {
-      width: 78%;
+      width: 80%;
       background: -webkit-gradient(linear, left top, right top, color-stop(-50%, #0078ff), color-stop(150%, #9afff2));
       background: -o-linear-gradient(left, #0078ff -50%, #9afff2 150%);
       background: linear-gradient(to right, #0078ff -50%, #9afff2 150%); }
@@ -419,7 +419,7 @@ canvas {
       background: -o-linear-gradient(left, #00ff00 -50%, #b3f794 150%);
       background: linear-gradient(to right, #00ff00 -50%, #b3f794 150%); }
     .skills__fill_type_mongo {
-      width: 60%;
+      width: 70%;
       background: -webkit-gradient(linear, left top, right top, color-stop(-50%, #ffd000), color-stop(150%, #f7e094));
       background: -o-linear-gradient(left, #ffd000 -50%, #f7e094 150%);
       background: linear-gradient(to right, #ffd000 -50%, #f7e094 150%); }

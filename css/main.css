@@ -504,9 +504,11 @@ canvas {
     height: 80px;
     font-size: 2.3rem;
     font-weight: 400;
-    margin-bottom: 40px; }
+    margin-bottom: 40px; 
+}
     .form__row_type_area {
-      height: 300px; }
+      height: 300px; 
+}
   .form__control {
     padding: 0 6px;
     position: absolute;
@@ -519,14 +521,16 @@ canvas {
     outline: none;
     z-index: 25;
     font-family: 'Yanone Kaffeesatz', sans-serif;
-    font-size: 2rem; }
+    font-size: 2rem; 
+}
   .form__text {
     padding: 20px 6px!important;
     width: 100%;
     height: 100%;
     border: none;
     border-bottom: 2px solid #ced4da;
-    background: transparent; }
+    background: transparent; 
+}
   .form__label {
     position: absolute;
     top: 0;
@@ -538,13 +542,15 @@ canvas {
     padding-left: 5px;
     display: inline-block;
     cursor: text;
-    z-index: 20; }
+    z-index: 20; 
+}
     .form__label_active {
       -ms-transform: translateY(-100%);
       -webkit-transform: translateY(-100%);
       transform: translateY(-60%);
       font-size: 2.2rem;
-      color: #f4cb67; }
+      color: #f4cb67; 
+}
   .form__btn {
     display: inline-block;
     border: none;
@@ -561,11 +567,13 @@ canvas {
     -o-transition: 0.2s;
     transition: 0.2s;
     text-align: center;
-    line-height: 65px; }
+    line-height: 65px; 
+}
     .form__btn:hover {
       -webkit-box-shadow: 0 0 0 2px #D2973D inset, 0 0 0 4px white inset;
               box-shadow: 0 0 0 2px #D2973D inset, 0 0 0 4px white inset;
-      cursor: pointer; }
+      cursor: pointer; 
+}
 
 .status {
   font-size: 1.2rem;

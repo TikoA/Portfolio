@@ -111,16 +111,20 @@ canvas {
       -ms-flex-align: center;
           align-items: center;
   height: 86px;
-  width: 100%; }
-  .nav_pos_ab {
+  width: 100%; 
+}
+.nav_pos_ab {
     position: absolute;
     top: 0;
-    left: 0; }
+    left: 0; 
+}
 
 .logo {
-  font-size: 2.5rem; }
-  .logo_text_yellow {
-    color: #f4cb67; }
+  font-size: 2.5rem; 
+}
+.logo_text_yellow {
+    color: #f4cb67; 
+}
 
 .menu {
   display: -webkit-box;
